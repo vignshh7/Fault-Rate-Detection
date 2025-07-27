@@ -4,7 +4,7 @@ This machine learning project detects device faults based on system performance 
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-vignshh7%2FFault--Rate--Detection-blue?logo=github)](https://github.com/vignshh7/Fault-Rate-Detection)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ---
 
@@ -208,10 +208,13 @@ The project includes several visualization tools:
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is shared for **educational and academic use**.  
+Feel free to explore, modify, and adapt the code for your own learning or research.  
+Attribution is appreciated if used in any public or academic work.
 
-### Citation
+### 📚 Citation
 If you use this work in academic research, please cite:
+
 ```bibtex
 @misc{vignesh2024faultdetection,
   author = {Vignesh},
@@ -220,9 +223,7 @@ If you use this work in academic research, please cite:
   publisher = {GitHub},
   url = {https://github.com/vignshh7/Fault-Rate-Detection}
 }
-```
 
----
 
 ## 🙋‍♂️ About the Author
 
