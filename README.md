@@ -226,7 +226,7 @@ If you use this work in academic research, please cite:
 
 ## 🙋‍♂️ About the Author
 
-**Vignesh** – [@vignshh7](https://github.com/vignshh7
+**Vignesh** – [@vignshh7](https://github.com/vignshh7)
 
 
 
