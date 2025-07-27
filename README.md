@@ -223,6 +223,8 @@ If you use this work in academic research, please cite:
   publisher = {GitHub},
   url = {https://github.com/vignshh7/Fault-Rate-Detection}
 }
+```
+
 
 
 ## 🙋‍♂️ About the Author
