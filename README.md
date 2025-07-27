@@ -239,12 +239,4 @@ If you use this work in academic research, please cite:
 
 ---
 
-## ⭐ Star History
-
-If this project helped you understand small-data ML or industrial fault detection, please consider giving it a star! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=vignshh7/Fault-Rate-Detection&type=Date)](https://star-history.com/#vignshh7/Fault-Rate-Detection&Date)
-
----
-
 *Built with ❤️ for the practical ML community - demonstrating that effective solutions don't always need big data!*
